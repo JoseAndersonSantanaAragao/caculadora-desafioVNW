@@ -1,2 +1,2 @@
 # caculadora-desafioVNW
-Created with CodeSandbox
+Calcuuladora simples e pratica desenvolvida com React e estilizada com CSS.
